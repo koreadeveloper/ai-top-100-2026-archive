@@ -11,6 +11,8 @@
 [![Retrospective](https://img.shields.io/badge/READ-참여_회고-7c3d64?style=for-the-badge)](docs/retrospective.md)
 [![Skill](https://img.shields.io/badge/REUSE-워크플로_스킬-53629b?style=for-the-badge)](skills/interview-agent-sprint/SKILL.md)
 
+[![Download](https://img.shields.io/badge/DOWNLOAD-아카이브_ZIP-374151?style=for-the-badge)](https://github.com/koreadeveloper/ai-top-100-2026-archive/archive/refs/heads/main.zip)
+
 [대회 소개](https://aitop100.org/about) · [진행 타임라인](docs/timeline.md) · [최종 지표](docs/results.md) · [공식 문서 모음](docs/resources.md) · [다음 대회 플레이북](docs/next-time.md)
 
 <img src="assets/archive-cover.svg" width="100%" alt="10명 인터뷰, 223회 질문, 지식 문서28개, 공개 예시15개 자체 평가" />

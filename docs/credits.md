@@ -6,7 +6,7 @@
 `assets/ai-top-100-official-logo.png`는 사용자가 저장한 공식 예선 페이지의 `img_logo` 이미지를 변경 없이 추출했다. 공식 출처: https://aitop100.org/contest 및 https://aitop100.org/ . 대회 참여를 식별하기 위해 링크와 함께 표시하며 권리는 해당 권리자에게 있다. 공식 인증·수상 배지로 사용하지 않는다.
 
 ## 직접 작성·제작한 자료
-- 표지 `archive-cover.svg`, 업무 흐름 `workflow.svg`, 지표 차트 `interview-metrics.svg`: 이 참여 기록을 위해 작성한 SVG.
+- 표지 `archive-cover.svg`, 업무 흐름 `workflow.svg`, 지표 차트 `interview-metrics.svg`: 이 참여 기록을 위해 작성한 SVG. 한글 표시가 방문자 글꼴에 의존하지 않도록 글자를 도형으로 변환했다.
 - 전략·회고·아키텍처 문서: 작업 대화와 로컬 구현·평가 기록을 근거로 공개용으로 새로 정리.
 - 지표 CSV: 사용자 제공 최종 상태 스크린샷의10명 수치 전사. 질문223회, 사람별 단순평균58.8%.
 - 자체평가 요약: 로컬 평가 summary 기록. 공식 성적 아님.
