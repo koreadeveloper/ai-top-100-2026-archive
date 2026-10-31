@@ -1,0 +1,4 @@
+interface:
+  display_name: "인터뷰형 에이전트 대회 실행"
+  short_description: "인터뷰·문서·API·실제 채널 검증을 연결하는 시간제한 대회 운영"
+  default_prompt: "Use $interview-agent-sprint to prepare an interview-driven agent competition, prioritize evidence and validate the live workflow before submission."

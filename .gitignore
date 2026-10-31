@@ -1,0 +1,12 @@
+# Local credentials and private material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+__pycache__/
+.venv/
+private/
+raw-logs/
+node_modules/

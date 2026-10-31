@@ -1,0 +1,21 @@
+{
+  "type": "self_evaluation_not_official",
+  "full_run": {
+    "scenarios": 15,
+    "mean_score": 80.7,
+    "final_submitted_version": false
+  },
+  "targeted_rechecks": {
+    "price_compensation": 90,
+    "discount_combination": 82,
+    "voice_refund": 72,
+    "fast_shipping": 65
+  },
+  "later_single_rechecks": {
+    "fast_shipping": 88,
+    "voice_refund": 64
+  },
+  "final_full_run": null,
+  "actual_media_recognition_verified": false,
+  "official_rank": null
+}
