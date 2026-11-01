@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://aitop100.org/"><img src="assets/ai-top-100-official-logo.png" width="650" alt="AI_TOP_100 2026 공식 로고" /></a>
+<a href="https://aitop100.org/"><img src="assets/ai-top-100-logo-panel.svg" width="650" alt="AI_TOP_100 2026 공식 로고" /></a>
 
 # AI TOP 100 · 2026 Participation Archive
 
